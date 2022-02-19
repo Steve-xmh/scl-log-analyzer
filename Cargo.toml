@@ -1,0 +1,14 @@
+[package]
+name = "scl-log-analyzer"
+version = "0.1.0"
+edition = "2021"
+authors = ["SteveXMH <stevexmh@qq.com>"]
+readme = "README.md"
+repository = "https://github.com/Steve-xmh/scl-log-analyzer"
+description = "A Minecraft client/server log analyzer"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nom = "7.1.0"
